@@ -16,5 +16,6 @@ public class CriteriaSingle implements Criteria {
                 singlePersons.add(person);
             }
         }
-        return singlePersons;    }
+        return singlePersons;
+    }
 }

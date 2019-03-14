@@ -7,14 +7,14 @@ import java.util.List;
  * @author : wuyuwu@shuidihuzhu.com
  * @Date : 2019/3/13 下午3:47
  *
- *
  * 过滤器模式：
- *
+ * 这种模式允许开发人员使用不同的标准来过滤一组对象，通过逻辑运算以解耦的方式把它们链接起来，这种设计模式属于结构型模式它结合多个标准来获得单一标准
  *
  * 应用场景：
  *
  *
  * 优缺点：
+ *
  *
  */
 public class FilterPattern {
